@@ -1,4 +1,3 @@
-# 💫 About Me:
 Full-stack development enthusiast with <br>hands-on knowledge of HTML, CSS, JavaScript, Bootstrap, and <br>MongoDB. <br>I enjoy building practical web applications such as<br>hospital management and appointment booking systems. <br>Currently focused on improving my problem-solving skills and<br>strengthening my development expertise.<br>
 
 
